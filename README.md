@@ -12,6 +12,7 @@
   * Desenvolver uma API de um CRUD (Create, Read, Update e Delete);</br>
   * Utilizar banco de dados MySQL para a gestão de dados;</br>
   * Desenvolver API RESTful.</br>
+   * Desenvolver Testes Unitário.</br>
 
 </div>
 
